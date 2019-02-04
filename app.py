@@ -1,4 +1,4 @@
 import time
-while(true):
+while(True):
     time.sleep(5)
     print "Hello, world!!"
